@@ -21,4 +21,4 @@ node_modules
 *.sln
 *.sw?
 
-*.json
+fcm-service-account.json
